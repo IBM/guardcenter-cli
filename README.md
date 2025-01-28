@@ -3,10 +3,10 @@
 The Guardium Data Security Center command-line interface (`guardcenter-cli`)
 depends on the version of Guardium Data Security Center that you are using:
 
-| Release   | Installation | Upgrade   | Administration | CLI Version |
+| Release   | Installation | Upgrade   | Health Checks | CLI Version |
 | ------    | ------       | ------    | -----------    | ------      |
 | 3.6.0      | &#10004;     |  | &#10004;       | 2.0.x    |
-| 3.6.0      | &#10004;     |  |       | 1.0.x    |
+| 3.6.0      |    |  |  &#10004;     | 1.0.x    |
 
 You can install Guardium Data Security Center from a client workstation that can connect to your cluster. You must run the installation from a Linux, Mac, or Windows machine. For details, see [Installing IBM Guardium Data Security Center](https://www.ibm.com/docs/en/gdsc/3.x?topic=installing-guardium-data-security-center-command-line-interface-utility)
 
