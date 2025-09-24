@@ -5,6 +5,8 @@ depends on the version of Guardium Data Security Center that you are using:
 
 | Release   | Installation | Upgrade   | Health Checks | CLI Version |
 | ------    | ------       | ------    | -----------    | ------      |
+| 3.8.0      | &#10004;     |  | &#10004;       | 2.0.x    |
+| 3.7.0      | &#10004;     |  | &#10004;       | 2.0.x    |
 | 3.6.0      | &#10004;     |  | &#10004;       | 2.0.x    |
 | 3.6.0      |    |  |  &#10004;     | 1.0.x    |
 
